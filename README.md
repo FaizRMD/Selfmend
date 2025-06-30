@@ -8,4 +8,4 @@ Aplikasi terapi online dan meditasi dengan React + Tailwind CSS. Dibuat untuk me
 - Tampilan responsif & animasi halus
 
 ## Demo:
-https://username.github.io/selfmend
+https://FaizRMD.github.io/selfmend
